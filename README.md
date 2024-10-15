@@ -1,7 +1,6 @@
 # Advanced Programming Course Assignment 2
 
 Name : Liron cohen
-ID: 312324247
 
 ## Description
 In our assinment we will use a random number generator (provided) that simulates the endless stream,
